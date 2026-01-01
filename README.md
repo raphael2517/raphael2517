@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Yash Namdev ⚡</h1>
+<h1 align="center">⚡ Raphael ReGenesis ⚡</h1>
 
 <p align="center">
   🐧 Linux • 💻 Systems • 🎮 Game Dev • 🧠 Philosophy • ✍️ Writing  
