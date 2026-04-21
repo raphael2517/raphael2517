@@ -11,7 +11,7 @@
 
 ---
 
-## Who Am I?
+## &rarr; Who Am I?
 
 A **Linux-first student and developer** who prefers understanding systems over blindly using them.
 
@@ -21,7 +21,7 @@ I enjoy game development as a creative outlet, programming as a craft, and philo
 
 ---
 
-## 🧠 What I’m Into
+## &rarr; What I’m Into
 
 - Linux and system-level thinking  
 - Programming and software fundamentals  
@@ -34,7 +34,7 @@ I like mixing **logic + creativity** — code that works and ideas that mean som
 
 ---
 
-## 🧩 How I Learn
+## &rarr; How I Learn
 
 I don’t rush learning. I focus on:
 - understanding fundamentals first  
@@ -46,9 +46,9 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## Tech Stack
+## &rarr; Tech Stack
 
-### 🔧 Programming
+### Programming
 - **C#** — game development, logic  
 - **GDScript** — Godot scripting  
 - **Python** — scripting, automation  
@@ -77,7 +77,7 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## What I’ve Worked On
+## &rarr; What I’ve Worked On
 
 - Built and scripted Linux-based workflows  
 - Created and customized window manager setups  
@@ -87,7 +87,7 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## Current Focus
+## &rarr; Current Focus
 
 - Strengthening programming fundamentals  
 - Building complete, meaningful projects  
@@ -97,7 +97,7 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## Mindset
+## &rarr; Mindset
 
 > Learn deeply.  
 > Build patiently.  
