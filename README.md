@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Who Am I?
+## Who Am I?
 
 A **Linux-first student and developer** who prefers understanding systems over blindly using them.
 
@@ -23,12 +23,12 @@ I enjoy game development as a creative outlet, programming as a craft, and philo
 
 ## 🧠 What I’m Into
 
-- 🐧 Linux and system-level thinking  
-- 💻 Programming and software fundamentals  
-- 🎮 Game development (logic, mechanics, story)  
-- 🧠 Consciousness, philosophy, and deep ideas  
-- ✍️ Writing stories, lore, and long-form concepts  
-- 🛠️ Customization, experimentation, and optimization  
+- Linux and system-level thinking  
+- Programming and software fundamentals  
+- Game development (logic, mechanics, story)  
+- Consciousness, philosophy, and deep ideas  
+- Writing stories, lore, and long-form concepts  
+- Customization, experimentation, and optimization  
 
 I like mixing **logic + creativity** — code that works and ideas that mean something.
 
@@ -46,7 +46,7 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### 🔧 Programming
 - **C#** — game development, logic  
@@ -54,30 +54,30 @@ I’m fine with slow progress if it’s real progress.
 - **Python** — scripting, automation  
 - **Bash** — shell scripting and workflows  
 
-### 🐧 Linux & Systems
+### Linux & Systems
 - Arch Linux (daily driver)
 - System configuration & customization
 - Package management, permissions, processes
 - Writing scripts to automate daily tasks
 
-### 🎮 Game Development
+### Game Development
 - Godot Engine (main focus)
 - Interest in mechanics, systems, and narrative design
 - Anime-inspired, dark, emotional themes
 
-### 🖼 Desktop & Customization
+### Desktop & Customization
 - Hyprland (Wayland)
 - Custom workflows and rice
 - Performance-focused setups
 
-### 🔧 Tools
+### Tools
 - Git & GitHub
 - SSH-based workflows
 - Long-term personal projects
 
 ---
 
-## 🛠 What I’ve Worked On
+## What I’ve Worked On
 
 - Built and scripted Linux-based workflows  
 - Created and customized window manager setups  
@@ -87,7 +87,7 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Strengthening programming fundamentals  
 - Building complete, meaningful projects  
@@ -97,7 +97,7 @@ I’m fine with slow progress if it’s real progress.
 
 ---
 
-## 🧠 Mindset
+## Mindset
 
 > Learn deeply.  
 > Build patiently.  
